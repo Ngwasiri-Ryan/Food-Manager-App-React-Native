@@ -110,7 +110,7 @@ export default AddItemScreen
 const styles = StyleSheet.create({
     Maincontainer:{
         flex:1,
-        backgroundColor:'#E0E0E0',
+        backgroundColor:'#E6E6E6',
         borderRadius:15,
         marginHorizontal:12,
         marginVertical:12,
