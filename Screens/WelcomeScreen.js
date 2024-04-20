@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
         height:70,
         padding:5,
         borderRadius:50,
-        backgroundColor:'#FF5500',
+        backgroundColor:'#FF7F00',
         alignItems:'center',
         justifyContent:'center',
         paddingLeft:60,
@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
   appName:{
     fontSize:26,
     fontWeight: '800',
-    color:'#FF5500',
+    color:'#FF7F00',
 },
   imgbox:{
          width: 350,

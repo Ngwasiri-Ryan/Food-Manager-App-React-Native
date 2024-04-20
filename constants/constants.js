@@ -56,5 +56,30 @@ export const items =[
         quantity:'2 trays',
         added_date:'15-09-2003',
         expiry_date:'20-11-2023'
+      },
+      {
+        id: '7',
+        name: 'Flour',
+        image: require("../assets/images/flour.png"),
+        quantity:'2 kg',
+        added_date:'1-07-2023',
+        expiry_date:'20-11-2024'
+      },
+      {
+        id: '7',
+        name: 'Sugar',
+        image: require("../assets/images/sugar.png"),
+        quantity:'2 trays',
+        added_date:'15-09-2003',
+        expiry_date:'20-11-2023'
       }
   ]
+
+  export const data = [
+    { id: '1', word: 'Piece' },
+    { id: '2', word: 'KG' },
+    { id: '3', word: 'Packet' },
+    { id: '4', word: 'Others' },
+
+  ];
+  

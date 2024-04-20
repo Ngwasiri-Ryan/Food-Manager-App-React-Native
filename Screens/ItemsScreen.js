@@ -23,8 +23,8 @@ const ItemsScreen = ({navigation}) => {
         <Text style={{fontWeight:'bold'}}>ingredients({items.length})</Text>
     <TouchableOpacity  onPress={() => navigation.navigate("AddItemScreen")}>
         <View style={styles.addIcon}>
-          <Ionicons name="add-circle-outline" size={24} color="#FF5500" />
-          <Text style={{color:'#FF5500'}}>Add New</Text>
+          <Ionicons name="add-circle-outline" size={24} color="#FF7F00" />
+          <Text style={{color:'#FF7F00'}}>Add New</Text>
         </View>
     </TouchableOpacity>
        
@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
     imgbox:{
         width:'27%',
         height:'100%',
-        backgroundColor:'#cccc',
+        backgroundColor:'#DDDDDD',
         justifyContent:'center',
         alignItems:'center',
         borderRadius:18,
