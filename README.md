@@ -5,7 +5,9 @@ This is a frontend design of a Food Manager mobile aaplication compatible for bo
 
 This Food Manager app allows us to view all avialable food items along with their quantiy in measurable units and the expiry date.
 
-[![Image of your project](./assets/read-me-images/banner.jpg  width="400")](#)
+[![Image of your project](./assets/read-me-images/banner.jpg)](#)
+
+<img src="./assets/read-me-images/banner.jpg" alt="Alt text" style="width: 20%; border-radius: 5px;"/>
 
 
 [![Image of your project](./assets/read-me-images/img1.png)](#)
