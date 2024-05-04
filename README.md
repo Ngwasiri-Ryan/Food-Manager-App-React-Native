@@ -5,20 +5,8 @@ This is a frontend design of a Food Manager mobile aaplication compatible for bo
 
 This Food Manager app allows us to view all avialable food items along with their quantiy in measurable units and the expiry date.
 
-[![Image of your project](./assets/read-me-images/banner.jpg)](#)
 
-<img src="./assets/read-me-images/banner.jpg" alt="Alt text" style="height: 80%; border-radius: 5px;"/>
-
-
-[![Image of your project](./assets/read-me-images/img1.png)](#)
-
-[![Image of your project](./assets/read-me-images/img2.png)](#)
-
-
-[![Image of your project](./assets/read-me-images/img3.png)](#)
-
-
-[![Image of your project](./assets/read-me-images/img4.png)](#)
+<img src="./assets/read-me-images/banner.jpg" alt="Alt text" style="height: 60%; border-radius: 5px;"/>
 
 
 ## Bash Commands
