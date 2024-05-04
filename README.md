@@ -7,7 +7,7 @@ This Food Manager app allows us to view all avialable food items along with thei
 
 [![Image of your project](./assets/read-me-images/banner.jpg)](#)
 
-<img src="./assets/read-me-images/banner.jpg" alt="Alt text" style="width: 20%; border-radius: 5px;"/>
+<img src="./assets/read-me-images/banner.jpg" alt="Alt text" style="height: 80%; border-radius: 5px;"/>
 
 
 [![Image of your project](./assets/read-me-images/img1.png)](#)
